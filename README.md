@@ -1,8 +1,8 @@
 # Am csub
 ### Hacking, Coding, Game Modding, Reverse Engineering.<br>
 ## Current Project:
-- Troll Client PC
-- Troll Inc Stuff in General
+- Ball Client
+- Project NetCry
 ## Tools:
 - Visual Studio 2022
 - Visual Studio Code
